@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.AssemblyInfo.cs
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Desktop\SENAI-São PAulo DEV FULL STACK\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\Exo.WebApi\obj\Debug\net7.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
