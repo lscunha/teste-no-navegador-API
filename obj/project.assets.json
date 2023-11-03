@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi2\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi2\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Desktop\\SENAI-São PAulo DEV FULL STACK\\Desenvolvimento de APIs - QO_FULLST_LOJ_222T22\\Exo.WebApi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
